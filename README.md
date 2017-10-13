@@ -1,2 +1,1 @@
-# spring5apptest
-Test repository
+# spring5-test-app
